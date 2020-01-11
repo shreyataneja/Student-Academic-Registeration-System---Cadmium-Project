@@ -1,0 +1,234 @@
+00:00:00:000
+State for model input_reader_registrar is next time: 00:00:00:000
+State for model registrar1 is studentGrade: 0
+00:00:00:000
+State for model input_reader_registrar is next time: 00:00:00:000
+State for model registrar1 is studentGrade: 0
+00:00:00:000
+State for model input_reader_registrar is next time: 00:00:20:000
+State for model registrar1 is studentGrade: 22
+00:00:09:000
+State for model input_reader_registrar is next time: 00:00:20:000
+State for model registrar1 is studentGrade: 22
+00:00:18:000
+State for model input_reader_registrar is next time: 00:00:20:000
+State for model registrar1 is studentGrade: 22
+00:00:20:000
+State for model input_reader_registrar is next time: 00:00:05:000
+State for model registrar1 is studentGrade: 23
+00:00:25:000
+State for model input_reader_registrar is next time: 00:00:45:000
+State for model registrar1 is studentGrade: 23
+00:00:34:000
+State for model input_reader_registrar is next time: 00:00:45:000
+State for model registrar1 is studentGrade: 23
+00:00:43:000
+State for model input_reader_registrar is next time: 00:00:45:000
+State for model registrar1 is studentGrade: 23
+00:00:52:000
+State for model input_reader_registrar is next time: 00:00:45:000
+State for model registrar1 is studentGrade: 23
+00:01:01:000
+State for model input_reader_registrar is next time: 00:00:45:000
+State for model registrar1 is studentGrade: 23
+00:01:10:000
+State for model input_reader_registrar is next time: 00:01:00:000
+State for model registrar1 is studentGrade: 26
+00:01:19:000
+State for model input_reader_registrar is next time: 00:01:00:000
+State for model registrar1 is studentGrade: 26
+00:01:28:000
+State for model input_reader_registrar is next time: 00:01:00:000
+State for model registrar1 is studentGrade: 26
+00:01:37:000
+State for model input_reader_registrar is next time: 00:01:00:000
+State for model registrar1 is studentGrade: 26
+00:01:46:000
+State for model input_reader_registrar is next time: 00:01:00:000
+State for model registrar1 is studentGrade: 26
+00:01:55:000
+State for model input_reader_registrar is next time: 00:01:00:000
+State for model registrar1 is studentGrade: 26
+00:02:04:000
+State for model input_reader_registrar is next time: 00:01:00:000
+State for model registrar1 is studentGrade: 26
+00:02:10:000
+State for model input_reader_registrar is next time: 00:00:10:000
+State for model registrar1 is studentGrade: 56
+00:02:19:000
+State for model input_reader_registrar is next time: 00:00:10:000
+State for model registrar1 is studentGrade: 56
+00:02:20:000
+State for model input_reader_registrar is next time: 00:00:10:000
+State for model registrar1 is studentGrade: 122
+00:02:29:000
+State for model input_reader_registrar is next time: 00:00:10:000
+State for model registrar1 is studentGrade: 122
+00:02:30:000
+State for model input_reader_registrar is next time: 00:00:10:000
+State for model registrar1 is studentGrade: 125
+00:02:39:000
+State for model input_reader_registrar is next time: 00:00:10:000
+State for model registrar1 is studentGrade: 125
+00:02:40:000
+State for model input_reader_registrar is next time: 00:00:10:000
+State for model registrar1 is studentGrade: 167
+00:02:49:000
+State for model input_reader_registrar is next time: 00:00:10:000
+State for model registrar1 is studentGrade: 167
+00:02:50:000
+State for model input_reader_registrar is next time: 00:00:10:000
+State for model registrar1 is studentGrade: 178
+00:02:59:000
+State for model input_reader_registrar is next time: 00:00:10:000
+State for model registrar1 is studentGrade: 178
+00:03:00:000
+State for model input_reader_registrar is next time: 00:01:20:000
+State for model registrar1 is studentGrade: 179
+00:03:09:000
+State for model input_reader_registrar is next time: 00:01:20:000
+State for model registrar1 is studentGrade: 179
+00:03:18:000
+State for model input_reader_registrar is next time: 00:01:20:000
+State for model registrar1 is studentGrade: 179
+00:03:27:000
+State for model input_reader_registrar is next time: 00:01:20:000
+State for model registrar1 is studentGrade: 179
+00:03:36:000
+State for model input_reader_registrar is next time: 00:01:20:000
+State for model registrar1 is studentGrade: 179
+00:03:45:000
+State for model input_reader_registrar is next time: 00:01:20:000
+State for model registrar1 is studentGrade: 179
+00:03:54:000
+State for model input_reader_registrar is next time: 00:01:20:000
+State for model registrar1 is studentGrade: 179
+00:04:03:000
+State for model input_reader_registrar is next time: 00:01:20:000
+State for model registrar1 is studentGrade: 179
+00:04:12:000
+State for model input_reader_registrar is next time: 00:01:20:000
+State for model registrar1 is studentGrade: 179
+00:04:20:000
+State for model input_reader_registrar is next time: 00:00:02:000
+State for model registrar1 is studentGrade: 223
+00:04:22:000
+State for model input_reader_registrar is next time: 00:00:28:000
+State for model registrar1 is studentGrade: 223
+00:04:31:000
+State for model input_reader_registrar is next time: 00:00:28:000
+State for model registrar1 is studentGrade: 223
+00:04:40:000
+State for model input_reader_registrar is next time: 00:00:28:000
+State for model registrar1 is studentGrade: 223
+00:04:49:000
+State for model input_reader_registrar is next time: 00:00:28:000
+State for model registrar1 is studentGrade: 223
+00:04:50:000
+State for model input_reader_registrar is next time: 00:00:20:000
+State for model registrar1 is studentGrade: 245
+00:04:59:000
+State for model input_reader_registrar is next time: 00:00:20:000
+State for model registrar1 is studentGrade: 245
+00:05:08:000
+State for model input_reader_registrar is next time: 00:00:20:000
+State for model registrar1 is studentGrade: 245
+00:05:10:000
+State for model input_reader_registrar is next time: 00:00:20:000
+State for model registrar1 is studentGrade: 256
+00:05:19:000
+State for model input_reader_registrar is next time: 00:00:20:000
+State for model registrar1 is studentGrade: 256
+00:05:28:000
+State for model input_reader_registrar is next time: 00:00:20:000
+State for model registrar1 is studentGrade: 256
+00:05:30:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:05:39:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:05:48:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:05:57:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:06:06:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:06:15:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:06:24:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:06:33:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:06:42:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:06:51:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:07:00:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:07:09:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:07:18:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:07:27:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:07:36:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:07:45:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:07:54:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:08:03:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:08:12:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:08:21:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:08:30:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:08:39:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:08:48:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:08:57:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:09:06:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:09:15:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:09:24:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:09:33:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:09:42:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278
+00:09:51:000
+State for model input_reader_registrar is next time: inf
+State for model registrar1 is studentGrade: 278

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Models>
+<Model name="SARS" type="coupled" description=" model to show a whole SARS System">
+		<Inputs>
+			<Port name="studentsRegistering" type="double" description="na"/>			
+		</Inputs>
+		<Outputs>
+			<Port name="facultyRejected" type="double" description="na"/>			
+			<Port name="standardsNotMet" type="double" description="na"/>			
+		</Outputs>
+		<Files>
+			<File name="main.cpp" type="CPP" location="/test"/>
+			<File name="sars_input.txt" type="TXT" location="/input_data"/>
+			<File name="SARS_test_output_messages.txt" type="TXT" location="/simulation_results"/>
+			<File name="SARS_test_output_state.txt" type="TXT" location="/simulation_results"/>
+		</Files>
+	</Model>
+	<Model name="webapp" type="coupled" description="a coupled system for a simple webapp.">
+		<Inputs>
+			<Port name="webAppIN" type="double" description="na"/>			
+		</Inputs>
+		<Outputs>
+			<Port name="webAppOUT" type="double" description="na"/>
+		</Outputs>
+		<Files>	
+		<File name="main_webApp_test.cpp" type="CPP" location="/test"/>
+			<File name="webApp_input.txt" type="TXT" location="/input_data"/>
+			<File name="webApp_test_output_messages.txt" type="TXT" location="/simulation_results"/>
+			<File name="webApp_test_output_state.txt" type="TXT" location="/simulation_results"/>
+		</Files>
+	</Model>
+	<Model name="university" type="coupled" description=" model to show a university administration">
+		<Inputs>
+			<Port name="studentApplicationIN" type="double" description="na"/>			
+		</Inputs>
+		<Outputs>
+			<Port name="advisorRejectedApplicationID" type="double" description="na"/>			
+			<Port name="rejectedApplicationID" type="double" description="na"/>			
+		</Outputs>
+		<Files>
+			<File name="main_university_test.cpp" type="CPP" location="/test"/>
+			<File name="university_input.txt" type="TXT" location="/input_data"/>
+			<File name="university_test_output_messages.txt" type="TXT" location="/simulation_results"/>
+			<File name="university_test_output_state.txt" type="TXT" location="/simulation_results"/>
+		</Files>
+	</Model>
+	<Model name="application" type="atomic" description="model to show how an application queue works">
+		<Inputs>
+			<Port name="applicationFillingComplete" type="double" description="na"/>	
+			<Port name="applicationIN" type="double" description="na"/>			
+		</Inputs>
+		<Outputs>
+			<Port name="applicationOUT" type="double" description="na"/>
+		</Outputs>
+		<Files>
+				<File name="application.hpp" type="HPP" location="/atomics"/>
+			<File name="main_application_test.cpp" type="CPP" location="/test"/>
+			<File name="application_input_applicationFillingComplete.txt" type="TXT" location="/input_data"/>
+			<File name="application_input_applicationIN.txt" type="TXT" location="/input_data"/>
+			<File name="application_test_output_messages.txt" type="TXT" location="/simulation_results"/>
+			<File name="application_test_output_state.txt" type="TXT" location="/simulation_results"/>
+		</Files>
+	</Model>
+	<Model name="applicationProcess" type="atomic" description="model to show how a feedback works on application">
+		<Inputs>
+			<Port name="applicationProcessIN" type="double" description="na"/>
+		</Inputs>
+		<Outputs>
+			<Port name="applicationProcessOUT" type="double" description="na"/>
+			<Port name="applicationProcessStatus" type="double" description="na"/>
+		</Outputs>
+		<Files>
+		<File name="applicationProcess.hpp" type="HPP" location="/atomics"/>
+			<File name="main_applicationProcess_test.cpp" type="CPP" location="/test"/>
+			<File name="applicationProcess_input.txt" type="TXT" location="/input_data"/>
+			<File name="applicationProcess_test_output_messages.txt" type="TXT" location="/simulation_results"/>
+			<File name="applicationProcess_test_output_state.txt" type="TXT" location="/simulation_results"/>
+		</Files>
+	</Model>
+	<Model name="faculty" type="atomic" description="model showing a faculty advisor">
+		<Inputs>
+			<Port name="applicationCourseCheck" type="double" description="na"/>			
+		</Inputs>
+		<Outputs>
+			<Port name="facultyOUT" type="double" description="na"/>
+			<Port name="advisorOpinionOUT" type="double" description="na"/>
+		</Outputs>
+		<Files>
+				<File name="faculty.hpp" type="HPP" location="/atomics"/>
+			<File name="main_faculty_test.cpp" type="CPP" location="/test"/>
+			<File name="faculty_input.txt" type="TXT" location="/input_data"/>
+			<File name="faculty_test_output_messages.txt" type="TXT" location="/simulation_results"/>
+			<File name="faculty_test_output_state.txt" type="TXT" location="/simulation_results"/>
+		</Files>
+	</Model>
+	<Model name="registrar" type="atomic" description="model shows a registrar functioning">
+		<Inputs>
+			<Port name="applicationVerificationIN" type="double" description="na"/>			
+		</Inputs>
+		<Outputs>
+			<Port name="applicationVerificationOUT" type="double" description="na"/>
+			<Port name="minStandardsNotMet" type="double" description="na"/>
+		</Outputs>
+		<Files>
+			<File name="registrar.hpp" type="HPP" location="/atomics"/>
+			<File name="main_registrar_test.cpp" type="CPP" location="/test"/>
+			<File name="registrar_input.txt" type="TXT" location="/input_data"/>
+			<File name="Registrar_test_output_messages.txt" type="TXT" location="/simulation_results"/>
+			<File name="Registrar_test_output_state.txt" type="TXT" location="/simulation_results"/>
+			
+		</Files>
+	</Model>
+</Models>
